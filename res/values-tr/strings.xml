@@ -29,6 +29,9 @@
     <string name="intro_restore_subtitle"><xliff:g id="name" example="crDroid">%s</xliff:g> veya başka bir işletim sisteminden bir Seedvault yedeğiniz varsa, buradan geri yükleyebilirsiniz.</string>
     <string name="intro_restore_button">Yedekten geri yükle</string>
     <string name="setup_location">Konum servisleri</string>
+    <string name="setup_google_services">Google hizmetleri</string>
+    <string name="google_services_microg">microG (önerilen)</string>
+    <string name="google_services_none">Google hizmetleri olmadan</string>
     <string name="location_access_summary"><b>Konum bilginizi isteyen uygulamalara izin ver.</b> Bu geçerli konumunuzu ve geçmiş konumlarınızı içerebilir.</string>
     <string name="location_agps_access_summary">GPS\'inizin başlama süresini büyük ölçüde hızlandırmak için &lt;b&gt;internetten uydu yardım verilerini indirin.&lt;b&gt;</string>
     <string name="update_recovery_title">crDroid Kurtarma Modunu Güncelle</string>
