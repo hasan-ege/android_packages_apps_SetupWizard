@@ -70,6 +70,9 @@
 
     <!-- Location page -->
     <string name="setup_location">Location services</string>
+    <string name="setup_google_services">Google services</string>
+    <string name="google_services_microg">microG (recommended)</string>
+    <string name="google_services_none">No Google services</string>
     <string name="location_summary">Choose how your device manages its location</string>
     <string name="location_access_title">Use location</string>
     <string name="location_agps_access_title">Enhanced location</string>
