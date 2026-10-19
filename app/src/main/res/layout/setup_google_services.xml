@@ -20,8 +20,8 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="@dimen/location_margin_left"
-            android:paddingRight="@dimen/content_margin_right">
+            android:paddingLeft="@dimen/content_margin_left"
+            android:paddingRight="@dimen/content_margin_left">
 
             <RadioButton
                 android:id="@+id/google_services_microg"
